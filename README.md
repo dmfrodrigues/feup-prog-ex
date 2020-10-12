@@ -2,6 +2,8 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e104beae80264be69f9050e18e3645f6)](https://www.codacy.com/gh/dmfrodrigues/feup-prog-ex/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dmfrodrigues/feup-prog-ex&amp;utm_campaign=Badge_Grade)
+
 - **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
 - **Course:** [PROG](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436430) (Programming)
 - **Subjects:** Object-oriented programming, developing programs in C++
